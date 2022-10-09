@@ -1,0 +1,14 @@
+header {
+  background-image: url(../pages/home/imagemBk.svg);
+  background-position-y: bottom;
+  height: 620px;
+  margin: 0.8rem 0.8rem;
+}
+.logoImg {
+  margin: 7rem 4rem 7rem 5rem;
+}
+.cabecalho {
+  height: 100%;
+  background-color: var(--color-grey-0);
+  color: var(--color-grey-3);
+}
